@@ -1,0 +1,6 @@
+\title{Definition: Isomorphism}
+\date{2025-05-08}
+\taxon{Definition}
+\meta{parent}{gt-homomorphisms}
+
+\p{A \strong{group isomorphism} is a bijective homomorphism #{f : G \to H}. We write #{G \cong H} when an isomorphism exists; isomorphic groups are indistinguishable as abstract groups.}

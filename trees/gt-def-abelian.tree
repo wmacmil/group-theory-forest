@@ -1,0 +1,6 @@
+\title{Definition: Abelian Group}
+\date{2025-05-08}
+\taxon{Definition}
+\meta{parent}{gt-groups}
+
+\p{A group #{(G, \cdot)} is \strong{abelian} (or commutative) if #{a \cdot b = b \cdot a} for all #{a, b \in G}.}

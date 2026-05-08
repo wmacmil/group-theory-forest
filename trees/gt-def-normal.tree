@@ -1,0 +1,6 @@
+\title{Definition: Normal Subgroup}
+\date{2025-05-08}
+\taxon{Definition}
+\meta{parent}{gt-subgroups}
+
+\p{A subgroup #{N \leq G} is \strong{normal} (#{N \trianglelefteq G}) if #{gNg^{-1} = N} for all #{g \in G}. Normal subgroups are exactly the kernels of homomorphisms.}

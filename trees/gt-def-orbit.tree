@@ -1,0 +1,6 @@
+\title{Definition: Orbit and Stabiliser}
+\date{2025-05-08}
+\taxon{Definition}
+\meta{parent}{gt-actions}
+
+\p{For #{g \in G} acting on #{X}, the \strong{orbit} of #{x} is #{\mathrm{Orb}(x) = \{g \cdot x \mid g \in G\}} and the \strong{stabiliser} is #{\mathrm{Stab}(x) = \{g \in G \mid g \cdot x = x\}}. The orbit-stabiliser theorem states #{|\mathrm{Orb}(x)| = [G : \mathrm{Stab}(x)]}.}

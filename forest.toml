@@ -1,0 +1,5 @@
+[forest]
+trees = ["trees"]
+assets = ["assets"]
+url = "http://localhost:5173/"
+home = "gt-index"

@@ -1,0 +1,6 @@
+\title{Theorem: Lagrange}
+\date{2025-05-08}
+\taxon{Theorem}
+\meta{parent}{gt-subgroups}
+
+\p{If #{G} is a finite group and #{H \leq G}, then #{|H|} divides #{|G|}. In particular, the order of every element divides #{|G|}.}

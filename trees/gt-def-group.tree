@@ -1,0 +1,6 @@
+\title{Definition: Group}
+\date{2025-05-08}
+\taxon{Definition}
+\meta{parent}{gt-groups}
+
+\p{A \strong{group} is a pair #{(G, \cdot)} where #{G} is a set and #{\cdot : G \times G \to G} satisfies: closure, associativity, a unique identity element #{e}, and inverses for every element.}

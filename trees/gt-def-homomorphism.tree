@@ -1,0 +1,6 @@
+\title{Definition: Homomorphism}
+\date{2025-05-08}
+\taxon{Definition}
+\meta{parent}{gt-homomorphisms}
+
+\p{A \strong{group homomorphism} #{f : G \to H} is a map satisfying #{f(a \cdot b) = f(a) \cdot f(b)} for all #{a, b \in G}.}

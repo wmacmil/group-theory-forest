@@ -1,0 +1,6 @@
+\title{Example: Symmetric Group}
+\date{2025-05-08}
+\taxon{Example}
+\meta{parent}{gt-groups}
+
+\p{The \strong{symmetric group} #{S_n} consists of all permutations of #{n} elements under composition. #{|S_n| = n!}. For #{n \geq 3}, #{S_n} is non-abelian.}

@@ -1,0 +1,6 @@
+\title{Definition: Group Action}
+\date{2025-05-08}
+\taxon{Definition}
+\meta{parent}{gt-actions}
+
+\p{A \strong{group action} of #{G} on a set #{X} is a homomorphism #{\phi : G \to \mathrm{Sym}(X)}, equivalently a map #{G \times X \to X} satisfying #{e \cdot x = x} and #{g \cdot (h \cdot x) = (gh) \cdot x}.}

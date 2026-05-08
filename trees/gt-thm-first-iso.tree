@@ -1,0 +1,6 @@
+\title{Theorem: First Isomorphism}
+\date{2025-05-08}
+\taxon{Theorem}
+\meta{parent}{gt-homomorphisms}
+
+\p{If #{f : G \to H} is a group homomorphism, then #{G / \ker(f) \cong \mathrm{im}(f)}.}
