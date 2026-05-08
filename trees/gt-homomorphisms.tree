@@ -1,5 +1,6 @@
 \title{Homomorphisms}
 \date{2025-05-08}
 \meta{parent}{gt-index}
+\meta{intro}{Once we have groups, the natural question is: what are the right maps between them? A homomorphism is a map that respects the group operation — it does not matter whether you multiply first and then map, or map first and then multiply. Isomorphisms are the bijective homomorphisms, the ones that say two groups are structurally the same.}
 
 \p{A group homomorphism is a structure-preserving map between groups. Homomorphisms and isomorphisms are the central morphisms of group theory.}

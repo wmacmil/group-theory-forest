@@ -1,5 +1,6 @@
 \title{Groups}
 \date{2025-05-08}
 \meta{parent}{gt-index}
+\meta{intro}{Groups are the atoms of symmetry. Before we can state any theorem, we need to know what a group is — a set with a binary operation that behaves like composition of reversible processes. The examples to keep in mind: integers under addition, permutations of a set, rotations of a square.}
 
 \p{A group is a set equipped with a binary operation satisfying four axioms: closure, associativity, identity, and invertibility.}

@@ -1,5 +1,6 @@
 \title{Subgroups}
 \date{2025-05-08}
 \meta{parent}{gt-index}
+\meta{intro}{Groups contain smaller groups within them — subgroups. The interesting ones are normal subgroups, which are invariant under conjugation. These are the subgroups you can quotient by, producing a new group. Lagrange's theorem is the first real theorem of group theory: subgroup size divides the whole group size.}
 
 \p{A subgroup is a subset of a group that is itself a group under the same operation. Normal subgroups are central to quotient constructions.}

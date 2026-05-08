@@ -1,5 +1,6 @@
 \title{Group Actions}
 \date{2025-05-08}
 \meta{parent}{gt-index}
+\meta{intro}{The real power of groups comes from watching them act on things. A group action is a homomorphism from the group into the symmetric group of a set — it is a group doing things to objects. The orbit of a point is everywhere it can go; the stabiliser is everything that fixes it. These two concepts govern most counting arguments in finite group theory.}
 
 \p{A group action formalises the idea of a group acting on a set by permutations. Orbits and stabilisers are the key invariants.}
